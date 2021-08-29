@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GulMuhammad2002
 - 👀 I’m interested in progamming, web development, app development
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on myself
 - 📫 3278789021
 
 <!---
